@@ -29,7 +29,7 @@ ActiveRecord::Schema.define(version: 2019_03_24_000242) do
   create_table "photos", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.string "aar"
+    t.string "picture"
   end
 
   create_table "places", force: :cascade do |t|
