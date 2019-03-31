@@ -80,7 +80,8 @@ gem 'devise'
 gem "geocoder"
 
 gem "figaro"
-
+gem "rmagick"
 gem 'carrierwave', '~> 1.0'
+
 
 
