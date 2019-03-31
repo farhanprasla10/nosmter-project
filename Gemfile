@@ -82,6 +82,7 @@ gem "geocoder"
 gem "figaro"
 gem "rmagick"
 gem 'carrierwave', '~> 1.0'
+gem "figaro"
 
 
 
